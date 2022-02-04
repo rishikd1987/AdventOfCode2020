@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c7eea61-593f-4a7d-90eb-fc757c915696" name="Changes" comment="" />
+    <list default="true" id="2c7eea61-593f-4a7d-90eb-fc757c915696" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AdventOfCode2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AdventOfCode2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/code.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24diK0w6MBcigqLmiWJk2jJRsrg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
